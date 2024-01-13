@@ -1,0 +1,4 @@
+name: Capital
+version: '${version}'
+main: me.rebelmythik.capital.Capital
+api-version: '1.17'
