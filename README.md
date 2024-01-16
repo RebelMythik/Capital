@@ -1,4 +1,4 @@
-# Captial
+# Capital
 Capital is a minecraft economy plugin focused on being an overall solution, when it comes to being able to easily track your economy. The focus of the plugin is to be able to stay peformant at high player counts and work across networks that utilize waterfall and velocity.
 ## Features
 ### Storage Types
