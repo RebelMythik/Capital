@@ -18,4 +18,9 @@ public class EventListenerHandler implements Listener {
         // Update Message for Staff
     }
 
+    @EventHandler(priority = EventPriority.HIGHEST)
+    public void playerQuit(PlayerJoinEvent event) {
+
+    }
+
 }
